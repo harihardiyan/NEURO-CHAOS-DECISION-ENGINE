@@ -65,7 +65,7 @@ Dependencies: `numpy` and `scipy`.
 
 ```bash
 # Clone the repository
-git clone [https://github.com/YourUsername/NEURO-CHAOS-DECISION-ENGINE.git](https://github.com/YourUsername/NEURO-CHAOS-DECISION-ENGINE.git)
+git clone ([https://github.com/harihardiyan/NEURO-CHAOS-DECISION-ENGINE.git](https://github.com/harihardiyan/NEURO-CHAOS-DECISION-ENGINE.git)
 cd NEURO-CHAOS-DECISION-ENGINE
 ```
 
@@ -74,4 +74,7 @@ pip install numpy scipy
 
 # Run the final integrated benchmark
 
-python neuro_chaos_pipeline.py
+python 
+```bash
+neuro_chaos_pipeline.py
+```
